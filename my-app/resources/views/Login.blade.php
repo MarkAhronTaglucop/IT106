@@ -62,7 +62,7 @@
 
             <div class="text-center p-2">
 
-          <a href="signup.php" class="text-success">Doesn't have an account yet? Sign up</a>
+          <a href="Signup.blade.php" class="text-success">Doesn't have an account yet? Sign up</a>
 
           </div>
 

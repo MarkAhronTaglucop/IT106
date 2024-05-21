@@ -60,7 +60,7 @@
             
             <div class="text-center p-2">
 
-                <a href="login.php" class="text-success">Already have an account? Login</a>
+                <a href="Login.blade.php" class="text-success">Already have an account? Login</a>
 
             </div>
 
